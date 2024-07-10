@@ -5,7 +5,7 @@
 
 **Methodology:** My methodology is to help you understand and inspire you by showing you authentic examples. You can only learn from the difference between your approach, and the examples, that inspire you. The aim is to provide you with ample such examples, mostly mine, and my favorites. The following are the divisions of contribution:
 
-### Learn
+### Foundations
 > build your foundations in data science
 
 ### Projects
